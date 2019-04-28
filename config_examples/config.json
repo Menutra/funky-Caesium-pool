@@ -137,7 +137,7 @@
         "blocks": 30,
         "payments": 30,
         "host": "api",
-        "password": "CHANGE ME",
+        "password": "apricot",
         "ssl": false,
         "sslPort": 8119,
         "sslCert": "./cert.pem",
@@ -154,7 +154,7 @@
     "wallet": {
         "host": "127.0.0.1",
         "port": 17287,
-	"password": "**YOUR WALLET RPC PASSWORD - REQUIRES PR#305 **"
+	"password": "apricot"
     },
 
     "redis": {
